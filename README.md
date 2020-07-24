@@ -88,7 +88,11 @@
 
 ### Books
 
+- [Istio: Up and Running](https://www.amazon.com/Istio-Running-Service-Connect-Control-ebook-dp-B07YGRPDC1/dp/B07YGRPDC1/ref=mt_other?_encoding=UTF8&me=&qid=) - by Lee Calcote.
+- [Getting Started with Istio Service Mesh](https://www.amazon.com/Getting-Started-Istio-Service-Mesh/dp/1484254570/ref=sr_1_8?dchild=1&keywords=istio&qid=1595586341&s=books&sr=1-8) - by Rahul Sharma.
+- [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.amazon.com/Hands-Microservices-Spring-Boot-Cloud-ebook/dp/B07T1Y2JRJ/ref=sr_1_4?dchild=1&keywords=istio&qid=1595586341&s=books&sr=1-4) - by Magnus Larsson.
 - [云原生服务网格Istio：原理、实践、架构与源码解析](https://book.douban.com/subject/34438220/) - by 张超盟，章鑫，徐中虎，徐飞.
+- [Service Mesh 实战](https://www.amazon.com/Service-Mesh-combat-Implementing-service/dp/7121361922/ref=sr_1_14?dchild=1&keywords=istio&qid=1595586341&s=books&sr=1-14) - by 周遥.
 - [Istio入门与实战](https://item.jd.com/12601120.html) - by 毛广献.
 
 ### Community
