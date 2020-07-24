@@ -9,6 +9,7 @@
 
 > 😎  A curated list of awesome things related to [istio](https://istio.io/)
 
+- [Tools](#Tools)
 - [Traffic Management](#traffic-management)
 - [Configuration](#configuration)
 - [GitOps](#gitops)
@@ -21,6 +22,10 @@
   - [Examples](#examples)
   - [Books](#books)
   - [Community](#community)
+
+## Tools
+
+- [Istio Snippets](https://marketplace.visualstudio.com/items?itemName=MakeOptim.istio-snippets#review-details) - Code snippets of istio for visual studio code.
 
 ## Traffic Management
 
